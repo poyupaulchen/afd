@@ -1,3 +1,7 @@
 calculate $x+y$
-$$\displaylines{
-x =& a + b \\\ =& b + c}$$
+$$
+\begin{align\*}
+1 &= 2\\\\\\
+3 &= 4
+\end{align\*}
+$$
