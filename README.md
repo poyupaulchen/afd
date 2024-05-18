@@ -1,3 +1,3 @@
 calculate $x+y$
 $$\displaylines{
-x &= a + b \\\&= b + c}$$
+x &= a + b \\\ &= b + c}$$
