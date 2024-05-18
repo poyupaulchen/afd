@@ -1,2 +1,5 @@
 calculate $x+y$
-$$\displaylines{x = a + b \\\ y = b + c}$$
+$$\displaylines{
+x = a + b \\\
+y = b + c
+}$$
