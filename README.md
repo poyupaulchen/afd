@@ -1,3 +1,3 @@
 calculate $x+y$
 
-\[a+b \\\ b+c \]
+$$a^2+b$$
