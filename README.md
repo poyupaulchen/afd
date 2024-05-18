@@ -1,3 +1,3 @@
 calculate $x+y$
 
-$$a^2+b$$
+$$a^2+b \\ b + c^2$$
